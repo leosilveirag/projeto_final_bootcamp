@@ -17,3 +17,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNWJiMWFhOGEtMDZmMS00MTU2LTg0Y2EtY2EwYzM3N
 <br>
 <h2>Fonte dos Dados</h2>
 https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data
+
+<h2>Apresentação</h2>
+https://www.canva.com/design/DAGHITfe2GI/nfBRkOEWhC7we2GQ7xK-FA/view?utm_content=DAGHITfe2GI&utm_campaign=designshare&utm_medium=link&utm_source=editor#4
